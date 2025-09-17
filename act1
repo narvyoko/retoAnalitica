@@ -1,0 +1,7 @@
+touch nombres.txt
+nano nombres.txt
+Adrian Alejandro Narvaez Yokoyama - A01621501
+Marcela Delgado Salas - A01621433
+Leia Sofia Sandoval Diaz - A01621563
+
+cat nombres.txt
